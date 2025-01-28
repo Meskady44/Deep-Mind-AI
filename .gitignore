@@ -8,3 +8,4 @@ node_modules
 .DS_Store
 Nowy Dokument tekstowy.txt
 bot.sh git add .gitignore git commit -m chore: Ignoring temporary files git push origin main
+bot.sh
